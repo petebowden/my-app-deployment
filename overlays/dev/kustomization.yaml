@@ -3,6 +3,3 @@ kind: Kustomization
 resources:
 - ../../base
 namePrefix: petebowden-
-images:
-- name: gitopsworkshop/my-app
-  newTag: v2
